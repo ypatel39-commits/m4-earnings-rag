@@ -2,11 +2,26 @@
 
 from __future__ import annotations
 
+import os
+
 import streamlit as st
 
+# Bridge Streamlit Cloud secrets -> env vars (Streamlit doesn't auto-export).
+# Allows M4_DEMO_MODE = "1" in secrets.toml to flip the rag.py demo path.
+try:
+    for _k in ("M4_DEMO_MODE",):
+        if _k in st.secrets:
+            os.environ[_k] = str(st.secrets[_k])
+except Exception:
+    pass  # st.secrets may not exist locally; harmless
+
 from m4_earnings_rag.config import OLLAMA_HOST, OLLAMA_MODEL, TICKERS, TOP_K
-from m4_earnings_rag.index import collection_count
+from m4_earnings_rag.index import build_chunks_from_disk, collection_count, index_chunks
 from m4_earnings_rag.rag import answer, check_ollama
+
+
+def _demo_mode() -> bool:
+    return os.environ.get("M4_DEMO_MODE", "").strip().lower() in {"1", "true", "yes"}
 
 
 st.set_page_config(
@@ -22,7 +37,9 @@ st.caption(
 with st.sidebar:
     st.subheader("Status")
     ok, info = check_ollama()
-    if ok:
+    if _demo_mode():
+        st.info("🟦 Demo mode (mock LLM, no Ollama)")
+    elif ok:
         st.success(f"Ollama OK (v{info})")
     else:
         st.error(info)
@@ -36,6 +53,17 @@ with st.sidebar:
         n_chunks = 0
         st.warning(f"Index not built yet: {exc}")
     st.metric("Indexed chunks", n_chunks)
+
+    # Streamlit Cloud first-run: empty chromadb. Build index from the in-repo
+    # transcripts on click. Takes ~30-60s due to sentence-transformers cold load.
+    if n_chunks == 0:
+        if st.button("Build index from in-repo transcripts", type="primary"):
+            with st.spinner("Embedding 10-Q transcripts (first run ~60s)..."):
+                chunks = build_chunks_from_disk()
+                indexed = index_chunks(chunks)
+            st.success(f"Indexed {indexed} chunks across {len(chunks)} sources.")
+            st.rerun()
+
     st.write(f"Model: `{OLLAMA_MODEL}`")
     st.write(f"Top-K: {TOP_K}")
     st.write(f"Tickers: {', '.join(TICKERS)}")

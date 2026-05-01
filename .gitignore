@@ -181,8 +181,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# M4 Earnings RAG runtime artifacts (heavy, regenerable)
-data/transcripts/*.txt
+# M4 Earnings RAG runtime artifacts
+# transcripts/ is committed (10 files, ~600KB) so the Streamlit Cloud
+# deploy can build the chromadb index without scripts/build_index.py.
 data/chroma/
 .venv/
 
