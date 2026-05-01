@@ -1,0 +1,23 @@
+# Streamlit Cloud config for M4 Earnings RAG.
+
+[theme]
+base = "light"
+primaryColor = "#0F4C81"        # equity-research blue
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F4F8"
+textColor = "#15202B"
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = false
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = true
+toolbarMode = "minimal"

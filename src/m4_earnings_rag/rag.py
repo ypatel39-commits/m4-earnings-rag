@@ -1,7 +1,21 @@
-"""Retrieval-augmented generation over indexed 10-Q chunks via local Ollama."""
+"""Retrieval-augmented generation over indexed 10-Q chunks via local Ollama.
+
+Demo mode
+---------
+For hosted deployments (Streamlit Community Cloud) that cannot run Ollama,
+set the env var ``M4_DEMO_MODE=1``. In that mode:
+
+* ``check_ollama()`` reports "demo mode" instead of probing localhost.
+* ``answer()`` skips the HTTP call to Ollama and returns a deterministic
+  mock LLM completion summarizing the retrieved citations.
+
+Local behavior (no env var) is **unchanged** — Ollama is still required
+when M4_DEMO_MODE is unset.
+"""
 
 from __future__ import annotations
 
+import os
 from dataclasses import dataclass, field
 from typing import Any
 
@@ -9,6 +23,11 @@ import requests
 
 from .config import OLLAMA_HOST, OLLAMA_MODEL, TOP_K
 from .index import query as retrieve
+
+
+def _demo_mode_enabled() -> bool:
+    """True if hosted/demo deploy where Ollama is unavailable."""
+    return os.environ.get("M4_DEMO_MODE", "").strip().lower() in {"1", "true", "yes"}
 
 
 SYSTEM_PROMPT = (
@@ -61,13 +80,47 @@ class RAGAnswer:
 
 
 def check_ollama(host: str = OLLAMA_HOST, *, timeout: int = 3) -> tuple[bool, str]:
-    """Verify Ollama is reachable. Returns (ok, message)."""
+    """Verify Ollama is reachable. Returns (ok, message).
+
+    In demo mode (env ``M4_DEMO_MODE=1``) this returns ``(True, "demo")``
+    without contacting localhost — used for hosted deploys where Ollama
+    cannot run.
+    """
+    if _demo_mode_enabled():
+        return True, "demo (mock LLM, no Ollama)"
     try:
         r = requests.get(f"{host}/api/version", timeout=timeout)
         r.raise_for_status()
         return True, r.json().get("version", "unknown")
     except Exception as exc:
         return False, f"Ollama unreachable at {host}: {exc}"
+
+
+def _demo_generate(question: str, citations: list[Citation]) -> str:
+    """Deterministic mock LLM response for hosted demo mode.
+
+    Builds a short answer that quotes the top retrieved snippets with proper
+    [n] citation brackets, so the UI renders identically to the real path.
+    """
+    if not citations:
+        return (
+            "Demo mode: no indexed transcripts matched this question. "
+            "Build the index locally with `python scripts/build_index.py`."
+        )
+    head = citations[0]
+    bullets = "\n".join(
+        f"- [{c.idx}] {c.ticker} ({c.filing_date}): "
+        f"{c.snippet[:160].rstrip()}{'...' if len(c.snippet) > 160 else ''}"
+        for c in citations[:3]
+    )
+    return (
+        f"**[Demo mode — mock LLM, no Ollama]**\n\n"
+        f"Based on the retrieved 10-Q MD&A excerpts, the most relevant context "
+        f"for *{question.strip()}* comes from {head.ticker}'s filing dated "
+        f"{head.filing_date} [1]. Key passages:\n\n{bullets}\n\n"
+        f"_Deploy with a real LLM (Ollama locally, or wire OpenAI/Anthropic "
+        f"in `_ollama_generate`) for synthesized answers. See DEPLOY.md._"
+    )
 
 
 def _format_context(hits: list[dict]) -> tuple[str, list[Citation]]:
@@ -124,6 +177,16 @@ def answer(question: str, *, top_k: int = TOP_K,
         f"{SYSTEM_PROMPT}\n\nSources:\n{context}\n\n"
         f"Question: {question}\n\nAnswer (with [n] citations):"
     )
+
+    # Hosted demo-mode short-circuit: skip Ollama entirely, return mock answer.
+    if _demo_mode_enabled():
+        return RAGAnswer(
+            question=question,
+            answer=_demo_generate(question, citations),
+            citations=citations,
+            model=f"{model} (demo)",
+        )
+
     ok, info = check_ollama(host=host)
     if not ok:
         return RAGAnswer(
