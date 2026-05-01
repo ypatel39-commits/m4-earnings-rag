@@ -35,3 +35,9 @@ A2: The provided excerpts in the top-5 retrieval are dominated by Microsoft's
 ---
 
 [INFO] 5/5 sample Q&As completed. Total latency: 612s (~2 min/Q).
+
+# Q&A text above is reproduced verbatim from docs/sample-qa.md, which
+# was generated from a real run on 2026-04-30 (qwen2.5:7b via local
+# Ollama, 10 indexed 10-Q filings). Surrounding [INFO] lines and
+# latencies are illustrative. Re-run `python scripts/run_demo.py` with
+# Ollama up to capture a fresh transcript.
