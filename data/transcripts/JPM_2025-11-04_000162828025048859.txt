@@ -1,0 +1,2291 @@
+TICKER: JPM
+CIK: 0000019617
+FORM: 10-Q
+FILING_DATE: 2025-11-04
+ACCESSION: 0001628280-25-048859
+SOURCE_URL: https://www.sec.gov/Archives/edgar/data/19617/000162828025048859/jpm-20250930.htm
+
+The portfolio increased when compared to December 31, 2024, primarily driven by an increase in loans at fair value due to net purchases of other consumer unsecured loans in CIB. Net charge-offs decreased for the three and nine months ended September 30, 2025 compared to the same periods in the prior year, primarily due to lower scored auto net charge-offs, reflecting improved used vehicle valuations.
+Nonperforming assets
+ 
+The following table presents information as of September 30, 2025 and December 31, 2024, about consumer, excluding credit card, nonperforming assets.
+Nonperforming assets
+(a)
+(in millions)
+September 30,
+2025
+December 31,
+2024
+Nonaccrual loans
+Residential real estate
+$
+4,323
+ 
+$
+3,665 
+Auto and other
+277
+ 
+261 
+Total nonaccrual loans
+4,600
+ 
+3,926 
+Assets acquired in loan satisfactions
+Real estate owned
+83
+ 
+78 
+Other
+39
+ 
+34 
+Total assets acquired in loan satisfactions
+122
+ 
+112 
+Total nonperforming assets
+$
+4,722
+ 
+$
+4,038 
+(a)
+Excludes mortgage loans past due and insured by U.S. government agencies, which are primarily 90 or more days past due. These loans have been excluded based upon the government guarantee. At September 30, 2025 and December 31, 2024, mortgage loans 90 or more days past due and insured by U.S. government agencies were $158 million and $121 million, respectively. 
+Nonaccrual loans
+The following table presents changes in consumer, excluding credit card, nonaccrual loans for the nine months ended September 30, 2025 and 2024.
+Nonaccrual loan activity 
+Nine months ended September 30, 
+(in millions)
+2025
+2024
+Beginning balance
+$
+3,926
+ 
+$
+4,203 
+Additions
+3,663
+ 
+2,245 
+Reductions:
+Principal payments and other
+689
+ 
+697 
+Sales
+768
+ 
+716 
+Charge-offs
+482
+ 
+453 
+Returned to performing status
+887
+ 
+724 
+Foreclosures and other liquidations
+163
+ 
+145 
+Total reductions
+2,989
+ 
+2,735 
+Net changes
+674
+ 
+(490)
+Ending balance
+$
+4,600
+ 
+$
+3,713 
+Refer to Note 11 for further information about the consumer credit portfolio, including information about delinquencies, other credit quality indicators and loans that were in the process of active or suspended foreclosure.
+64
+Credit card
+Total credit card loans increased compared to December 31, 2024, reflecting growth in new accounts and revolving balances. The September 30, 2025 30+ and 90+ day delinquency rates of 2.14% and 1.07%, respectively, decreased compared to the December 31, 2024 30+ and 90+ day delinquency rates of 2.17% and 1.14%, respectively, in line with the Firm's expectations. Net charge-offs increased for the three and nine months ended September 30, 2025 compared to the same periods in the prior year, reflecting loan growth. 
+Consistent with the Firm’s policy, all credit card loans typically remain on accrual status until charged off. However, the Firm’s allowance for loan losses includes the estimated uncollectible portion of accrued and billed interest and fee income. Refer to Note 11 for further information about this portfolio, including information about delinquencies.
+Geographic and FICO composition of credit card loans
+Refer to Note 11 for information on the geographic and FICO composition of the Firm’s credit card loans.
+65
+WHOLESALE CREDIT PORTFOLIO 
+In its wholesale businesses, the Firm is exposed to credit risk primarily through its underwriting, lending, market-making, and hedging activities with and for clients and counterparties, as well as through various operating services (such as cash management and clearing activities), securities financing activities and cash placed with banks. A portion of the loans originated or acquired by the Firm’s wholesale businesses is generally retained on the balance sheet. The Firm distributes a significant percentage of the loans that it originates into the market as part of its syndicated loan business and to manage portfolio concentrations and credit risk. The wholesale portfolio is actively managed, in part by conducting ongoing, in-depth reviews of client credit quality and transaction structure inclusive of collateral where applicable, and of industry, product and client concentrations. Refer to the industry discussion on pages 68-71 for further information.
+The Firm’s wholesale credit portfolio includes exposure held in CIB, AWM and Corporate, and risk-rated exposure held in CCB, for which the wholesale methodology is applied when determining the allowance for loan losses.
+As of September 30, 2025, loans increased by $84.4 billion, driven by higher loans in CIB, primarily in Markets, and higher securities-based lending in AWM, both associated with higher client demand. Lending-related commitments increased by $64.6 billion, driven by higher commitments in CIB, including held-for-sale commitments.
+As of September 30, 2025, nonperforming exposure increased by $939 million, driven by certain exposures in Technology, Media & Telecommunications,
+ 
+Oil & Gas, Utilities, and SPEs, in each case resulting from downgrades, partially offset by certain exposures in Real Estate and Healthcare, primarily due to charge-off activity, upgrades and paydowns.
+Wholesale credit portfolio
+Credit exposure
+Nonperforming
+(in millions)
+Sep 30,
+2025
+Dec 31,
+2024
+Sep 30,
+2025
+Dec 31,
+2024
+Loans retained
+$
+764,451
+ 
+$
+690,396 
+$
+4,740
+ 
+$
+3,942 
+Loans held-for-sale
+10,391
+ 
+6,103 
+36
+ 
+5 
+Loans at fair value
+31,845
+ 
+25,819 
+730
+ 
+964 
+Loans
+806,687
+ 
+722,318 
+5,506
+ 
+4,911 
+Derivative receivables
+59,849
+ 
+60,967 
+224
+ 
+145 
+Receivables from customers
+(a)
+68,493
+ 
+51,929 
+—
+ 
+— 
+Total wholesale credit-related assets
+935,029
+ 
+835,214 
+5,730
+ 
+5,056 
+Assets acquired in loan satisfactions
+Real estate owned
+NA
+NA
+183
+ 
+206 
+Other
+NA
+NA
+—
+ 
+— 
+Total assets acquired in loan satisfactions
+NA
+NA
+183
+ 
+206 
+Lending-related commitments
+596,028
+ 
+531,467 
+1,025
+ 
+737 
+Total wholesale credit portfolio
+$
+1,531,057
+ 
+$
+1,366,681 
+$
+6,938
+ 
+$
+5,999 
+Credit derivatives and credit-related notes used in credit portfolio management activities
+(b)
+$
+(33,576)
+$
+(40,888)
+$
+—
+ 
+$
+— 
+Liquid securities and other cash collateral held against derivatives
+(27,795)
+(28,160)
+NA
+NA
+(a)
+Receivables from customers reflect held-for-investment margin loans to brokerage clients in CIB, CCB and AWM; these are reported within accrued interest and accounts receivable on the Consolidated balance sheets.
+(b)
+Represents the net notional amount of protection purchased and sold through credit derivatives and credit-related notes used to manage both performing and nonperforming wholesale credit exposures; these derivatives do not qualify for hedge accounting under U.S. GAAP. Refer to Credit derivatives on page 74 and Note 4 for additional information.
+ 
+66
+Wholesale credit exposure – maturity and ratings profile
+The following tables present the maturity and internal risk ratings profiles of the wholesale credit portfolio as of September 30, 2025 and December 31, 2024. The Firm generally considers internal ratings with qualitative characteristics equivalent to BBB-/Baa3 or higher as investment grade, and takes into consideration collateral and structural support when determining the internal risk rating for each credit facility. Refer to Note 12 of JPMorganChase's 2024 Form 10-K for further information on internal risk ratings.
+Maturity profile
+(d)
+Ratings profile
+September 30, 2025 
+(in millions, except ratios)
+1 year or less
+After 1 year through 5 years
+After 5 years
+Total
+Investment-grade
+Noninvestment-grade
+Total
+Total % of IG
+Loans retained
+$
+267,279
+ 
+$
+314,661
+ 
+$
+182,511
+ 
+$
+764,451
+ 
+$
+519,281
+ 
+$
+245,170
+ 
+$
+764,451
+ 
+68
+ 
+%
+Derivative receivables
+59,849
+ 
+59,849
+ 
+Less: Liquid securities and other cash collateral held against derivatives
+(27,795)
+(27,795)
+Total derivative receivables, net of collateral
+9,006
+ 
+7,404
+ 
+15,644
+ 
+32,054
+ 
+21,999
+ 
+10,055
+ 
+32,054
+ 
+69
+ 
+Lending-related commitments
+139,969
+ 
+426,060
+ 
+29,999
+ 
+596,028
+ 
+370,880
+ 
+225,148
+ 
+596,028
+ 
+62
+ 
+Subtotal
+416,254
+ 
+748,125
+ 
+228,154
+ 
+1,392,533
+ 
+912,160
+ 
+480,373
+ 
+1,392,533
+ 
+66
+ 
+Loans held-for-sale and loans at fair value
+(a)
+42,236
+ 
+42,236
+ 
+Receivables from customers 
+68,493
+ 
+68,493
+ 
+Total exposure – net of liquid securities and other cash collateral held against derivatives
+$
+1,503,262
+ 
+$
+1,503,262
+ 
+Credit derivatives and credit-related notes used in credit portfolio management activities
+(b)(c)
+$
+(5,881)
+$
+(19,792)
+$
+(7,903)
+$
+(33,576)
+$
+(26,413)
+$
+(7,163)
+$
+(33,576)
+79
+ 
+%
+Maturity profile
+(d)
+Ratings profile
+December 31, 2024
+(in millions, except ratios)
+1 year or less
+After 1 year through 5 years
+After 5 years
+Total
+Investment-grade
+Noninvestment-grade
+Total
+Total % of IG
+Loans retained 
+$
+225,982 
+$
+289,199 
+$
+175,215 
+$
+690,396 
+$
+471,670 
+$
+218,726 
+$
+690,396 
+68 
+%
+Derivative receivables
+60,967 
+60,967 
+Less: Liquid securities and other cash collateral held against derivatives
+(28,160)
+(28,160)
+Total derivative receivables, net of collateral
+11,515 
+7,418 
+13,874 
+32,807 
+24,707 
+8,100 
+32,807 
+75 
+Lending-related commitments
+121,283 
+384,529 
+25,655 
+531,467 
+352,082 
+179,385 
+531,467 
+66 
+Subtotal
+358,780 
+681,146 
+214,744 
+1,254,670 
+848,459 
+406,211 
+1,254,670 
+68 
+Loans held-for-sale and loans at fair value
+(a)
+31,922 
+31,922 
+Receivables from customers 
+51,929 
+51,929 
+Total exposure – net of liquid securities and other cash collateral held against derivatives
+$
+1,338,521 
+$
+1,338,521 
+Credit derivatives and credit-related notes used in credit portfolio management activities
+(b)(c)
+$
+(5,442)
+$
+(33,751)
+$
+(1,695)
+$
+(40,888)
+$
+(31,691)
+$
+(9,197)
+$
+(40,888)
+78 
+%
+(a)
+Loans held-for-sale are primarily related to syndicated loans and loans transferred from the retained portfolio.
+(b)
+These derivatives do not qualify for hedge accounting under U.S. GAAP.
+(c)
+The notional amounts are presented on a net basis by underlying reference entity and the ratings profile shown is based on the ratings of the reference entity on which protection has been purchased. Predominantly all of the credit derivatives entered into by the Firm where it has purchased protection used in credit portfolio management activities are executed with investment-grade counterparties. In addition, the Firm obtains credit protection against certain loans in the retained loan portfolio through the issuance of credit-related notes.
+(d)
+The maturity profile of retained loans, lending-related commitments and derivative receivables is generally based on remaining contractual maturity. Derivative contracts that are in a receivable position at September 30, 2025, may become payable prior to maturity based on their cash flow profile or changes in market conditions.
+67
+Wholesale credit exposure – industry exposures
+The Firm focuses on the management and diversification of its industry exposures, and pays particular attention to industries with actual or potential credit concerns.
+Exposures that are deemed to be criticized align with the U.S. banking regulators’ definition of criticized exposures, which consist of the special mention, substandard and doubtful categories. Total criticized exposure, excluding loans held-for-sale and loans at fair value, was $48.3 billion and $44.7 billion as of September 30, 2025 and December 31, 2024, representing approximately 3.4% and 3.5% of total wholesale credit exposure, respectively; of the $48.3 billion, $42.3 billion was performing. The increase in criticized exposure was driven by Consumer & Retail, Healthcare, SPEs, and Banks & Finance Companies, primarily resulting from downgrades and new commitments, partially offset by Real Estate, primarily resulting from net portfolio activity and upgrades.
+The table below summarizes by industry the Firm’s exposures as of September 30, 2025 and December 31, 2024. The industry of risk category is generally based on the client or counterparty’s primary business activity. Refer to Note 4 of JPMorganChase's 2024 Form 10-K for additional information on industry concentrations.
+Wholesale credit exposure – industries
+(a)
+Selected metrics
+Noninvestment-grade
+30 days or more past due and accruing loans
+Net 
+charge-offs/
+(recoveries)
+Credit derivative and credit-related notes
+(h)
+Liquid securities 
+and other cash collateral held against derivative
+receivables
+As of or for the nine months ended September 30, 2025
+(in millions)
+Credit exposure
+(f)(g)
+Investment- grade
+Noncriticized
+Criticized performing
+Criticized nonperforming
+Real Estate
+$
+218,359
+ 
+$
+148,884
+ 
+$
+57,798
+ 
+$
+10,079
+ 
+$
+1,598
+ 
+$
+348
+ 
+$
+252
+ 
+$
+(336)
+$
+—
+ 
+Individuals and Individual Entities
+(b)
+163,460
+ 
+133,852
+ 
+28,771
+ 
+308
+ 
+529
+ 
+858
+ 
+9
+ 
+—
+ 
+(1)
+Asset Managers
+144,959
+ 
+112,057
+ 
+32,675
+ 
+222
+ 
+5
+ 
+180
+ 
+—
+ 
+—
+ 
+(9,666)
+Consumer & Retail
+134,408
+ 
+61,884
+ 
+64,238
+ 
+7,458
+ 
+828
+ 
+414
+ 
+136
+ 
+(2,147)
+—
+ 
+Technology, Media & Telecommunications
+113,520
+ 
+46,161
+ 
+56,341
+ 
+10,139
+ 
+879
+ 
+183
+ 
+179
+ 
+(2,910)
+—
+ 
+Industrials
+79,430
+ 
+41,512
+ 
+34,128
+ 
+3,508
+ 
+282
+ 
+156
+ 
+5
+ 
+(657)
+—
+ 
+Banks & Finance Companies
+75,350
+ 
+43,498
+ 
+30,936
+ 
+874
+ 
+42
+ 
+1
+ 
+5
+ 
+(725)
+(409)
+Healthcare
+64,382
+ 
+42,692
+ 
+17,650
+ 
+3,463
+ 
+577
+ 
+45
+ 
+189
+ 
+(1,285)
+—
+ 
+Utilities
+38,805
+ 
+25,206
+ 
+12,135
+ 
+1,037
+ 
+427
+ 
+1
+ 
+54
+ 
+(970)
+—
+ 
+Automotive
+35,855
+ 
+19,252
+ 
+15,570
+ 
+1,013
+ 
+20
+ 
+59
+ 
+6
+ 
+(419)
+—
+ 
+Oil & Gas
+34,419
+ 
+21,858
+ 
+12,093
+ 
+63
+ 
+405
+ 
+3
+ 
+—
+ 
+(331)
+—
+ 
+State & Municipal Govt
+(c)
+33,448
+ 
+32,606
+ 
+807
+ 
+32
+ 
+3
+ 
+26
+ 
+—
+ 
+(3)
+(1)
+Insurance
+24,194
+ 
+16,699
+ 
+7,321
+ 
+174
+ 
+—
+ 
+3
+ 
+—
+ 
+(376)
+(8,608)
+Chemicals & Plastics
+22,661
+ 
+11,078
+ 
+10,115
+ 
+1,426
+ 
+42
+ 
+69
+ 
+59
+ 
+(410)
+—
+ 
+Transportation
+18,892
+ 
+9,781
+ 
+8,612
+ 
+478
+ 
+21
+ 
+12
+ 
+(3)
+(291)
+—
+ 
+Metals & Mining
+16,789
+ 
+7,247
+ 
+8,986
+ 
+531
+ 
+25
+ 
+14
+ 
+2
+ 
+(227)
+(1)
+Central Govt
+13,524
+ 
+13,007
+ 
+258
+ 
+189
+ 
+70
+ 
+13
+ 
+—
+ 
+(923)
+(1,182)
+Securities Firms
+7,948
+ 
+4,245
+ 
+3,701
+ 
+1
+ 
+1
+ 
+—
+ 
+—
+ 
+(14)
+(2,338)
+Financial Markets Infrastructure
+7,394
+ 
+7,054
+ 
+270
+ 
+70
+ 
+—
+ 
+—
+ 
+—
+ 
+—
+ 
+—
+ 
+All other
+(d)
+172,531
+ 
+140,337
+ 
+30,678
+ 
+1,281
+ 
+235
+ 
+13
+ 
+261
+ 
+(21,552)
+(5,589)
+Subtotal
+$
+1,420,328
+ 
+$
+938,910
+ 
+$
+433,083
+ 
+$
+42,346
+ 
+$
+5,989
+ 
+$
+2,398
+ 
+$
+1,154
+ 
+$
+(33,576)
+$
+(27,795)
+Loans held-for-sale and loans at fair value
+42,236
+ 
+Receivables from customers
+68,493
+ 
+Total
+(e)
+$
+1,531,057
+ 
+68
+(continued from previous page)
+Selected metrics
+Noninvestment-grade
+30 days or more past due and accruing
+loans
+Net 
+charge-offs/
+(recoveries)
+Credit derivative and credit-related notes
+(h)
+Liquid securities 
+and other cash collateral held against derivative
+receivables
+As of or for the year ended
+December 31, 2024
+(in millions)
+Credit exposure
+(f)(g)
+Investment- grade
+Noncriticized
+Criticized performing
+Criticized nonperforming
+Real Estate
+$
+207,050 
+$
+143,803 
+$
+50,865 
+$
+10,858 
+$
+1,524 
+$
+913 
+$
+345 
+$
+(584)
+$
+— 
+Individuals and Individual Entities
+(b)
+144,145 
+118,650 
+24,831 
+217 
+447 
+831 
+122 
+— 
+— 
+Asset Managers
+135,541 
+101,150 
+34,148 
+206 
+37 
+375 
+2 
+— 
+(9,194)
+Consumer & Retail
+129,815 
+62,800 
+60,141 
+6,055 
+819 
+252 
+123 
+(4,320)
+— 
+Technology, Media & Telecommunications
+84,716 
+45,021 
+28,629 
+10,592 
+474 
+79 
+94 
+(4,800)
+— 
+Industrials
+72,530 
+37,572 
+30,912 
+3,807 
+239 
+185 
+91 
+(2,312)
+— 
+Banks & Finance Companies
+61,287 
+36,884 
+24,119 
+257 
+27 
+36 
+— 
+(702)
+(729)
+Healthcare
+64,224 
+44,135 
+17,062 
+2,219 
+808 
+245 
+56 
+(3,286)
+(34)
+Utilities
+35,871 
+24,205 
+10,256 
+1,273 
+137 
+1 
+— 
+(2,700)
+— 
+Automotive
+34,336 
+22,015 
+11,353 
+931 
+37 
+121 
+1 
+(997)
+— 
+Oil & Gas
+31,724 
+19,053 
+12,479 
+188 
+4 
+9 
+(3)
+(1,711)
+(2)
+State & Municipal Govt
+(c)
+35,039 
+33,303 
+1,711 
+9 
+16 
+90 
+— 
+(2)
+(1)
+Insurance
+24,267 
+17,847 
+6,198 
+222 
+— 
+2 
+— 
+(1,077)
+(9,184)
+Chemicals & Plastics
+20,782 
+11,013 
+8,152 
+1,521 
+96 
+31 
+14 
+(1,164)
+— 
+Transportation
+17,019 
+9,462 
+7,135 
+391 
+31 
+17 
+(20)
+(658)
+— 
+Metals & Mining
+15,860 
+7,373 
+7,860 
+590 
+37 
+9 
+— 
+(246)
+(2)
+Central Govt
+13,862 
+13,580 
+157 
+125 
+— 
+4 
+— 
+(1,490)
+(2,051)
+Securities Firms
+9,443 
+5,424 
+4,014 
+5 
+— 
+— 
+— 
+(13)
+(2,635)
+Financial Markets Infrastructure
+4,446 
+4,201 
+245 
+— 
+— 
+— 
+— 
+(1)
+— 
+All other
+(d)
+140,873 
+117,986 
+22,398 
+398 
+91 
+10 
+(3)
+(14,825)
+(4,328)
+Subtotal
+$
+1,282,830 
+$
+875,477 
+$
+362,665 
+$
+39,864 
+$
+4,824 
+$
+3,210 
+$
+822 
+$
+(40,888)
+$
+(28,160)
+Loans held-for-sale and loans at fair value
+31,922 
+Receivables from customers
+51,929 
+Total
+(e)
+$
+1,366,681 
+(a)
+The industry rankings presented in the table as of December 31, 2024, are based on the industry rankings of the corresponding exposures as of September 30, 2025, not actual rankings of such exposures as of December 31, 2024.
+(b)
+Individuals and Individual Entities predominantly consists of Global Private Bank clients within AWM and J.P. Morgan Wealth Management within CCB, and includes exposure to personal investment companies and personal and testamentary trusts.
+(c)
+In addition to the credit risk exposure to states and municipal governments (both U.S. and non-U.S.) at September 30, 2025 and December 31, 2024 noted above, the Firm held: $6.3 billion and $6.1 billion, respectively, of trading assets; $20.0 billion and $17.9 billion, respectively, of AFS securities; and $8.9 billion and $9.3 billion, respectively, of HTM securities, issued by U.S. state and municipal governments. Refer to Notes 2 and 9 for further information.
+(d)
+All other includes: SPEs and Private education and civic organizations, representing approximately 94% and 6%, respectively, at both September 30, 2025 and December 31, 2024. Refer to Note 13 for more information on exposures to SPEs.
+(e)
+Excludes cash placed with banks of $297.8 billion
+ 
+and $459.2 billion, at September 30, 2025 and December 31, 2024, respectively, which is predominantly placed with various central banks, primarily Federal Reserve Banks.
+(f)
+Credit exposure is net of risk participations and excludes the benefit of credit derivatives and credit-related notes used in credit portfolio management activities held against derivative receivables or loans and liquid securities and other cash collateral held against derivative receivables.
+(g)
+Credit exposure includes held-for-sale and fair value option elected lending-related commitments.
+(h)
+Represents the net notional amounts of protection purchased and sold through credit derivatives and credit-related notes used to manage the credit exposures; these derivatives do not qualify for hedge accounting under U.S. GAAP. The All other category includes purchased credit protection on certain credit indices.
+69
+Presented below is additional detail on certain of the Firm’s industry exposures.
+Real Estate
+Real Estate exposure was $218.4 billion as of September 30, 2025. Criticized exposure decreased by $705 million from $12.4 billion at December 31, 2024 to $11.7 billion at September 30, 2025, driven by net portfolio activity and upgrades, predominantly offset by downgrades.
+September 30, 2025
+(in millions, except ratios)
+Loans and Lending-related Commitments
+Derivative Receivables
+Credit exposure
+% Investment-grade
+% Drawn
+(d)
+Multifamily
+(a)
+$
+126,764
+ 
+$
+31
+ 
+$
+126,795
+ 
+78
+ 
+%
+92
+ 
+%
+Other Income Producing Properties
+(b)
+22,771
+ 
+327
+ 
+23,098
+ 
+38
+ 
+55
+ 
+Industrial
+19,441
+ 
+12
+ 
+19,453
+ 
+68
+ 
+72
+ 
+Services and Non Income Producing
+16,229
+ 
+138
+ 
+16,367
+ 
+62
+ 
+42
+ 
+Office
+15,395
+ 
+39
+ 
+15,434
+ 
+47
+ 
+81
+ 
+Retail
+12,631
+ 
+65
+ 
+12,696
+ 
+78
+ 
+76
+ 
+Lodging
+4,507
+ 
+9
+ 
+4,516
+ 
+23
+ 
+55
+ 
+Total Real Estate Exposure
+(c)
+$
+217,738
+ 
+$
+621
+ 
+$
+218,359
+ 
+68
+ 
+%
+80
+ 
+%
+December 31, 2024
+(in millions, except ratios)
+Loans and Lending-related Commitments
+Derivative 
+Receivables
+Credit exposure
+% Investment-
+grade
+% Drawn
+(d)
+Multifamily
+(a)
+$
+124,074 
+$
+7 
+$
+124,081 
+77 
+%
+92 
+%
+Other Income Producing Properties
+(b)
+16,411 
+158 
+16,569 
+50 
+63 
+Industrial
+19,092 
+17 
+19,109 
+65 
+72 
+Services and Non Income Producing
+14,047 
+57 
+14,104 
+62 
+46 
+Office
+16,331 
+29 
+16,360 
+47 
+81 
+Retail
+12,230 
+23 
+12,253 
+77 
+75 
+Lodging
+4,555 
+19 
+4,574 
+31 
+53 
+Total Real Estate Exposure
+$
+206,740 
+$
+310 
+$
+207,050 
+69 
+%
+82 
+%
+(a)
+Total Multifamily exposure is approximately 99% performing. Multifamily exposure is largely in California.
+(b)
+Other Income Producing Properties consists of clients with diversified property types or other property types outside of categories listed in the table above.
+(c)
+Real Estate exposure is approximately 84% secured; unsecured exposure is largely investment-grade primarily to Real Estate Investment Trusts (“REITs”) and Real Estate Operating Companies (“REOCs”) whose underlying assets are generally diversified.
+(d)
+Represents drawn exposure as a percentage of credit exposure.
+70
+Consumer & Retail
+Consumer & Retail exposure was $134.4 billion as of September 30, 2025. Criticized exposure increased by $1.4 billion from $6.9 billion at December 31, 2024 to $8.3 billion at September 30, 2025, driven by downgrades and new commitments, including held-for-sale commitments, largely offset by net portfolio activity and upgrades.
+September 30, 2025
+(in millions, except ratios)
+Loans and Lending-related Commitments
+Derivative Receivables
+Credit exposure
+% Investment-grade
+% Drawn
+(d)
+Business and Consumer Services
+$
+37,458
+ 
+$
+539
+ 
+$
+37,997
+ 
+39
+ 
+%
+42
+ 
+%
+Retail
+(a)
+36,179
+ 
+445
+ 
+36,624
+ 
+54
+ 
+32
+ 
+Food and Beverage
+33,604
+ 
+790
+ 
+34,394
+ 
+54
+ 
+35
+ 
+Consumer Hard Goods
+14,219
+ 
+319
+ 
+14,538
+ 
+40
+ 
+37
+ 
+Leisure
+(b)
+10,703
+ 
+152
+ 
+10,855
+ 
+28
+ 
+45
+ 
+Total Consumer & Retail
+(c)
+$
+132,163
+ 
+$
+2,245
+ 
+$
+134,408
+ 
+46
+ 
+%
+37
+ 
+%
+December 31, 2024
+(in millions, except ratios)
+Loans and Lending-related Commitments
+Derivative 
+Receivables
+Credit exposure
+% Investment-
+grade
+% Drawn
+(d)
+Business and Consumer Services
+$
+34,534 
+$
+412 
+$
+34,946 
+42 
+%
+41 
+%
+Retail
+(a)
+34,917 
+261 
+35,178 
+51 
+31 
+Food and Beverage
+34,774 
+683 
+35,457 
+61 
+34 
+Consumer Hard Goods
+13,796 
+208 
+14,004 
+43 
+35 
+Leisure
+(b)
+10,186 
+44 
+10,230 
+26 
+43 
+Total Consumer & Retail
+$
+128,207 
+$
+1,608 
+$
+129,815 
+48 
+%
+36 
+%
+(a)
+Retail consists of Home Improvement & Specialty Retailers, Restaurants, Discount & Drug Stores, Specialty Apparel, Supermarkets, and Department Stores.
+(b)
+Leisure consists of Arts & Culture, Travel Services, Sports & Recreation, and Gaming. As of September 30, 2025, approximately 80% of the noninvestment-grade Leisure portfolio is secured.
+(c)
+Consumer & Retail exposure is approximately 57% secured; unsecured exposure is approximately 74% investment-grade.
+(d)
+Represents drawn exposure as a percentage of credit exposure.
+71
+Loans
+In its wholesale businesses, the Firm provides loans to a variety of clients, ranging from large corporate and institutional clients to high-net-worth individuals. Refer to Note 11 for a further discussion on loans, including information about delinquencies, loan modifications and other credit quality indicators.
+The following table presents the change in the nonaccrual loan portfolio for the nine months ended September 30, 2025 and 2024. Since September 30, 2024, nonaccrual loan exposure increased by $1.1 billion, predominantly driven by certain exposures in Technology, Media, and Telecommunications, Oil & Gas, Consumer & Retail, SPEs, and Utilities, in each case resulting from downgrades partially offset by net portfolio activity.
+Wholesale nonaccrual loan activity
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Beginning balance
+$
+4,911
+ 
+$
+2,714 
+Additions
+4,194
+ 
+3,937 
+Reductions:
+Paydowns and other
+1,315
+ 
+1,381 
+Gross charge-offs 
+1,014
+ 
+640 
+Returned to performing status
+1,136
+ 
+208 
+Sales
+134
+ 
+60 
+Total reductions
+3,599
+ 
+2,289 
+Net changes
+595
+ 
+1,648 
+Ending balance
+$
+5,506
+ 
+$
+4,362 
+The following table presents net charge-offs/recoveries, which are defined as gross charge-offs less recoveries, for the three and nine months ended September 30, 2025 and 2024. The amounts in the table below do not include gains or losses from sales of nonaccrual loans recognized in noninterest revenue.
+Wholesale net charge-offs increased for the three and nine months ended September 30, 2025, compared to the same periods in the prior year, primarily due to increases in Commercial and industrial, including in the Healthcare and Technology, Media, and Telecommunications industries, as well as estimated losses related to apparent borrower fraud in certain secured lending facilities.
+Wholesale net charge-offs/(recoveries)
+(in millions, except ratios)
+Three months ended September 30,
+Nine months ended September 30,
+2025
+2024
+2025
+2024
+Loans
+Average loans retained
+$
+747,045
+ 
+$
+674,939 
+$
+718,467
+ 
+$
+668,648 
+Gross charge-offs
+658
+ 
+211 
+1,262
+ 
+659 
+Gross recoveries collected
+(36)
+(53)
+(108)
+(148)
+Net charge-offs/(recoveries)
+622
+ 
+158 
+1,154
+ 
+511 
+Net charge-off/(recovery) rate
+0.33
+ 
+%
+0.09 
+%
+0.21
+ 
+%
+0.10 
+%
+The following table presents net charge-offs/recoveries, average retained loans and net charge-off/recovery rate by loan class for the three and nine months ended September 30, 2025 and 2024.
+Three months ended September 30,
+Secured by real estate
+Commercial
+ and industrial
+Other
+Total
+(in millions, except ratios)
+2025
+2024
+2025
+2024
+2025
+2024
+2025
+2024
+Net charge-offs/(recoveries)
+$
+115
+ 
+$
+19 
+$
+203
+ 
+$
+135 
+$
+304
+ 
+$
+4 
+$
+622
+ 
+$
+158 
+Average retained loans 
+163,360
+ 
+162,853 
+179,262
+ 
+168,381 
+404,423
+ 
+343,705 
+747,045
+ 
+674,939 
+Net charge-off/(recovery) rate
+0.28
+ 
+%
+0.05 
+%
+0.45
+ 
+%
+0.32 
+%
+0.30
+ 
+%
+— 
+%
+0.33
+ 
+%
+0.09 
+%
+Nine months ended September 30,
+Secured by real estate
+Commercial
+ and industrial
+Other
+Total
+(in millions, except ratios)
+2025
+2024
+2025
+2024
+2025
+2024
+2025
+2024
+Net charge-offs/(recoveries)
+$
+252
+ 
+$
+129 
+$
+579
+ 
+$
+247 
+$
+323
+ 
+$
+135 
+$
+1,154
+ 
+$
+511 
+Average retained loans 
+162,206
+ 
+162,823 
+174,805
+ 
+170,005 
+381,456
+ 
+335,820 
+718,467
+ 
+668,648 
+Net charge-off/(recovery) rate
+0.21
+ 
+%
+0.11 
+%
+0.44
+ 
+%
+0.19 
+%
+0.11
+ 
+%
+0.05 
+%
+0.21
+ 
+%
+0.10 
+%
+72
+Lending-related commitments 
+The Firm uses lending-related financial instruments, such as commitments (including revolving credit facilities) and guarantees, to address the financing needs of its clients. The contractual amounts of these financial instruments represent the maximum possible credit risk should the clients draw down on these commitments or when the Firm fulfills its obligations under these guarantees, and the clients subsequently fail to perform according to the terms of these contracts. Most of these commitments and guarantees have historically been refinanced, extended, cancelled, or expired without being drawn upon or a default occurring. As a result, the Firm does not believe that the total contractual amount of these wholesale lending-related commitments is representative of the Firm’s expected future credit exposure or funding requirements. Refer to Note 22 for further information on wholesale lending-related commitments.
+Receivables from customers
+Receivables from customers reflect held-for-investment margin loans to brokerage clients in CIB, CCB and AWM that are collateralized by assets maintained in the clients’ brokerage accounts (including cash on deposit, and primarily liquid and readily marketable debt or equity securities). To manage its credit risk, the Firm establishes margin requirements and monitors the required margin levels on an ongoing basis, and requires clients to deposit additional cash or other collateral, or to reduce positions, when appropriate. Credit risk arising from lending activities subject to collateral maintenance requirements is generally mitigated by factors such as the short-term nature of the activity, the fair value of collateral held and the Firm’s right to call for, and the borrower’s obligation to provide, additional margin when the fair value of the collateral declines. Because of these mitigating factors, these receivables generally do not require an allowance for credit losses. However, if in management’s judgment, an allowance for credit losses is required, the Firm estimates expected credit losses based on the value of the collateral and probability of borrower default. These receivables are reported within accrued interest and accounts receivable on the Firm’s Consolidated balance sheets.
+Refer to Note 13 of JPMorganChase's 2024 Form 10-K for further information on the Firm’s accounting policies for the allowance for credit losses.
+Derivative contracts
+Derivatives enable clients and counterparties to manage risk, including credit risk and risks arising from fluctuations in interest rates, foreign exchange and equities and commodities prices. The Firm makes markets in derivatives in order to meet these needs and uses derivatives to manage certain risks associated with net open risk positions from its market-making activities, including the counterparty credit risk arising from derivative receivables. The Firm also uses derivative instruments to manage its own credit risk and other market risk exposure. The nature of the counterparty and the settlement mechanism of the derivative affect the 
+credit risk to which the Firm is exposed. For over-the-counter ("OTC") derivatives, the Firm is exposed to the credit risk of the derivative counterparty. For exchange-traded derivatives (“ETD”), such as futures and options, and cleared over-the-counter (“OTC-cleared”) derivatives, the Firm can also be exposed to the credit risk of the relevant CCP. Where possible, the Firm seeks to mitigate its credit risk exposures arising from derivative contracts through the use of legally enforceable master netting arrangements and collateral agreements. The percentage of the Firm’s OTC derivative transactions subject to collateral agreements — excluding foreign exchange spot trades, which are not typically covered by collateral agreements due to their short maturity and centrally cleared trades that are settled daily — was approximately 
+85% and 
+86% at September 30, 2025 and December 31, 2024, respectively. Refer to Note 4 for additional information on the Firm’s use of collateral agreements and for a further discussion of derivative contracts, counterparties and settlement types.
+The fair value of derivative receivables reported on the Consolidated balance sheets was $59.8 billion and $61.0 billion at September 30, 2025 and December 31, 2024, respectively. The decrease was primarily as a result of market movements. Derivative receivables represent the fair value of the derivative contracts after giving effect to legally enforceable master netting agreements and the related cash collateral held by the Firm. 
+In addition, the Firm holds liquid securities and other cash collateral that may be used as security when the fair value of the client’s exposure is in the Firm’s favor. For these purposes, the definition of liquid securities is consistent with the definition of high quality liquid assets as defined in the LCR rule. 
+In management’s view, the appropriate measure of current credit risk should also take into consideration other collateral, which generally represents securities that do not qualify as high quality liquid assets under the LCR rule. The benefits of these additional collateral amounts for each counterparty are subject to a legally enforceable master netting agreement and limited to the net amount of the derivative receivables for each counterparty.
+The Firm also holds additional collateral (primarily cash, G7 government securities, other liquid government agency and guaranteed securities, and corporate debt and equity securities) delivered by clients at the initiation of transactions, as well as collateral related to contracts that have a non-daily call frequency and collateral that the Firm has agreed to return but has not yet settled as of the reporting date. Although this collateral does not reduce the receivables balances and is not included in the tables below, it is available as security against potential exposure that could arise should the fair value of the client’s derivative contracts move in the Firm’s favor. Refer to Note 4 for additional information on the Firm’s use of collateral agreements for derivative transactions.
+73
+The following tables summarize the net derivative receivables and the internal ratings profile for the periods presented.
+Derivative receivables
+(in millions)
+September 30, 2025
+December 31, 2024
+Total, net of cash collateral
+$
+59,849
+ 
+$
+60,967 
+Liquid securities and other cash collateral held against derivative receivables
+(27,795)
+(28,160)
+Total, net of liquid securities and other cash collateral
+$
+32,054
+ 
+$
+32,807 
+Other collateral held against derivative receivables
+(1,158)
+(1,021)
+Total, net of collateral
+$
+30,896
+ 
+$
+31,786 
+Ratings profile of derivative receivables
+September 30, 2025
+December 31, 2024
+(in millions, except ratios)
+Exposure net of collateral
+% of exposure net of collateral
+Exposure net of collateral
+% of exposure net of collateral
+Investment-grade
+$
+21,021
+ 
+68
+ 
+%
+$
+23,783 
+75 
+%
+Noninvestment-grade
+9,875
+ 
+32
+ 
+8,003 
+25 
+Total
+$
+30,896
+ 
+100
+ 
+%
+$
+31,786 
+100 
+%
+Credit portfolio management activities
+The Firm uses credit derivatives for two primary purposes: first, in its capacity as a market-maker, and second, as an end-user, to manage the Firm’s own credit risk associated with traditional lending activities (loans and lending-related commitments) and derivatives counterparty exposure in the Firm’s wholesale businesses. In addition, the Firm obtains credit protection against certain loans in the retained wholesale portfolio through the issuance of credit-related notes. Information on credit portfolio management activities is provided in the table below.
+Credit derivatives and credit-related notes used in credit portfolio management activities
+Notional amount of protection 
+purchased and sold
+(a)
+(in millions)
+September 30,
+2025
+December 31,
+2024
+Credit derivatives and credit-related notes used to manage:
+Loans and lending-related commitments
+$
+15,767
+ 
+$
+25,216 
+Derivative receivables
+17,809
+ 
+15,672 
+Credit derivatives and credit-related notes used in credit portfolio management activities
+$
+33,576
+ 
+$
+40,888 
+(a)
+Amounts are presented net, considering the Firm’s net protection purchased or sold with respect to each underlying reference entity or index.
+Refer to Credit derivatives in Note 4 of this Form 10-Q and Note 5 of JPMorganChase’s 2024 Form 10-K for further information on credit derivatives and derivatives used in credit portfolio management activities.
+74
+ALLOWANCE FOR CREDIT LOSSES
+The Firm’s allowance for credit losses represents management's estimate of expected credit losses over the remaining expected life of the Firm's financial assets measured at amortized cost and certain off-balance sheet lending-related commitments. The Firm's allowance for credit losses generally consists of:
+•
+the allowance for loan losses, which covers the Firm’s retained loan portfolios (scored and risk-rated) and is presented separately on the Consolidated balance sheets,
+•
+the allowance for lending-related commitments, which is reflected in accounts payable and other liabilities on the Consolidated balance sheets, and
+•
+the allowance for credit losses on investment securities, which is reflected in investment securities on the Consolidated balance sheets.
+Discussion of changes in the allowance 
+The allowance for credit losses as of September 30, 2025 was $29.1 billion, reflecting a net addition of $2.2 billion from December 31, 2024. 
+The net addition to the allowance for credit losses included:
+•
+$1.2 billion in 
+wholesale
+, driven by net increases in the loan and lending-related commitment portfolios and changes in credit quality of client-specific exposures, partially offset by the impact of changes in the Firm's weighted-average macroeconomic outlook, including improvements in certain macroeconomic variables, and 
+•
+$1.1 billion in 
+consumer
+, driven by loan growth in Card Services and the impact of changes in the Firm's weighted-average macroeconomic outlook, partially offset by reduced borrower uncertainty.
+As of December 31, 2024, the Firm's qualitative adjustments and its weighted-average macroeconomic outlook included additional weight placed on the adverse scenarios to reflect ongoing uncertainties and downside risks related to the geopolitical and macroeconomic environment. In the first quarter of 2025, the Firm further increased the weight placed on the adverse scenarios, and in the second quarter, the Firm partially reduced the increase in weight implemented in the first quarter. 
+The Firm's allowance for credit losses is estimated using a weighted average of five internally developed macroeconomic scenarios. The adverse scenarios incorporate more punitive macroeconomic factors than the central case assumptions provided in the following table, resulting in: 
+•
+a weighted average U.S. unemployment rate peaking at 5.9% in the third quarter of 2026, and 
+•
+a weighted average U.S. real GDP level that is 2.0% lower than the central case at the end of the fourth quarter of 2026.
+The following table presents the Firm’s central case assumptions for the periods presented: 
+Central case assumptions 
+at September 30, 2025
+4Q25
+2Q26
+4Q26
+U.S. unemployment rate
+(a)
+4.5
+ 
+%
+4.7
+ 
+%
+4.5
+ 
+%
+YoY growth in U.S. real GDP
+(b)
+1.0
+ 
+%
+1.5
+ 
+%
+1.9
+ 
+%
+Central case assumptions 
+at December 31, 2024
+2Q25
+4Q25
+2Q26
+U.S. unemployment rate
+(a)
+4.5 
+%
+4.3 
+%
+4.3 
+%
+YoY growth in U.S. real GDP
+(b)
+2.0 
+%
+1.9 
+%
+1.8 
+%
+(a)
+Reflects quarterly average of forecasted U.S. unemployment rate.
+(b)
+The year over year growth in U.S. real GDP in the forecast horizon of the central scenario is calculated as the percentage change in U.S. real GDP levels from the prior year. 
+Subsequent changes to this forecast and related estimates will be reflected in the provision for credit losses in future periods.
+Refer to Note 13 and Note 10 of JPMorganChase’s 2024 Form 10-K for a description of the policies, methodologies and judgments used to determine the Firm’s allowance for credit losses on loans, lending-related commitments, and investment securities.
+Refer to Consumer Credit Portfolio on pages 61-65, Wholesale Credit Portfolio on pages 66-74 and Note 11 for additional information on the consumer and wholesale credit portfolios.
+Refer to Critical Accounting Estimates Used by the Firm on pages 87-89 for further information on the allowance for credit losses and related management judgments.
+75
+Allowance for credit losses and related information
+2025
+2024
+Nine months ended September 30, 
+Consumer, excluding 
+credit card
+Credit card
+Wholesale
+Total
+Consumer, excluding 
+credit card
+Credit card
+Wholesale
+Total
+(in millions, except ratios)
+Allowance for loan losses
+Beginning balance at January 1,
+$
+1,807
+ 
+$
+14,600
+ 
+$
+7,938
+ 
+$
+24,345
+ 
+$
+1,856 
+$
+12,450 
+$
+8,114 
+$
+22,420 
+Gross charge-offs
+814
+ 
+6,865
+ 
+1,262
+ 
+8,941
+ 
+971 
+6,044 
+659 
+7,674 
+Gross recoveries collected
+(410)
+(1,088)
+(108)
+(1,606)
+(490)
+(762)
+(148)
+(1,400)
+Net charge-offs
+404
+ 
+5,777
+ 
+1,154
+ 
+7,335
+ 
+481 
+5,282 
+511 
+6,274 
+Provision for loan losses
+500
+ 
+6,731
+ 
+1,489
+ 
+8,720
+ 
+360 
+6,932 
+506 
+7,798 
+Other
+—
+ 
+—
+ 
+5
+ 
+5
+ 
+— 
+— 
+5 
+5 
+Ending balance at September 30,
+$
+1,903
+ 
+$
+15,554
+ 
+$
+8,278
+ 
+$
+25,735
+ 
+$
+1,735 
+$
+14,100 
+$
+8,114 
+$
+23,949 
+Allowance for lending-related commitments
+Beginning balance at January 1,
+$
+82
+ 
+$
+—
+ 
+$
+2,019
+ 
+$
+2,101
+ 
+$
+75 
+$
+— 
+$
+1,899 
+$
+1,974 
+Provision for lending-related commitments
+2
+ 
+—
+ 
+860
+ 
+862
+ 
+6 
+— 
+162 
+168 
+Other
+—
+ 
+—
+ 
+1
+ 
+1
+ 
+— 
+— 
+— 
+— 
+Ending balance at September 30,
+$
+84
+ 
+$
+—
+ 
+$
+2,880
+ 
+$
+2,964
+ 
+$
+81 
+$
+— 
+$
+2,061 
+$
+2,142 
+Impairment methodology
+Asset-specific
+(a)
+$
+(621)
+$
+—
+ 
+$
+838
+ 
+$
+217
+ 
+$
+(756)
+$
+— 
+$
+499 
+$
+(257)
+Portfolio-based
+2,524
+ 
+15,554
+ 
+7,440
+ 
+25,518
+ 
+2,491 
+14,100 
+7,615 
+24,206 
+Total allowance for loan losses
+$
+1,903
+ 
+$
+15,554
+ 
+$
+8,278
+ 
+$
+25,735
+ 
+$
+1,735 
+$
+14,100 
+$
+8,114 
+$
+23,949 
+Impairment methodology
+Asset-specific
+$
+—
+ 
+$
+—
+ 
+$
+131
+ 
+$
+131
+ 
+$
+— 
+$
+— 
+$
+93 
+$
+93 
+Portfolio-based
+84
+ 
+—
+ 
+2,749
+ 
+2,833
+ 
+81 
+— 
+1,968 
+2,049 
+Total allowance for lending-related commitments
+$
+84
+ 
+$
+—
+ 
+$
+2,880
+ 
+$
+2,964
+ 
+$
+81 
+$
+— 
+$
+2,061 
+$
+2,142 
+Total allowance for investment securities
+NA
+NA
+NA
+$
+105
+ 
+NA
+NA
+NA
+$
+175 
+Total a
