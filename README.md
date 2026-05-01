@@ -11,6 +11,28 @@ Conversational Q&A over US public-company **10-Q MD&A** sections, powered by a
 
 Tickers covered: AAPL, MSFT, GOOGL, AMZN, JPM, BAC, NVDA, TSLA, META, NFLX.
 
+## Demo
+
+![10-Q MD&A corpus indexed by ticker](docs/screenshot.png)
+
+```text
+$ python scripts/run_demo.py
+Q: What does Microsoft say about Azure or cloud growth in its latest MD&A?
+
+A: Microsoft reports that Azure and other cloud services revenue grew 40%,
+   driven by demand for services across the platform with continued growth
+   across all workloads [1, 3]. This growth is a key driver of overall
+   Intelligent Cloud segment revenue increases [1].
+
+Sources:
+  [1] MSFT 10-Q filed 2026-04-29 - Item 2 MD&A, paragraph 270
+  [3] MSFT 10-Q filed 2026-04-29 - Item 2 MD&A, paragraph 100
+```
+
+Full output: [`docs/cli-demo.txt`](docs/cli-demo.txt) | More Q&As: [`docs/sample-qa.md`](docs/sample-qa.md)
+
+---
+
 ## Resume framing
 
 Equity-research / asset-management signal: build a RAG bot that does
