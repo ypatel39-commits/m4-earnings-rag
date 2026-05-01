@@ -1,7 +1,11 @@
 # M4 Earnings RAG
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://m4-earnings.streamlit.app/)
+
 Conversational Q&A over US public-company **10-Q MD&A** sections, powered by a
 **100% local stack** — no API keys, no cloud LLMs.
+
+🌐 **Live demo:** [m4-earnings.streamlit.app](https://m4-earnings.streamlit.app/) — runs in demo mode (mock LLM, real citations) since Streamlit Cloud cannot host Ollama. For full Ollama-backed answers, run locally.
 
 - **LLM:** Ollama (`qwen2.5:7b`) at `http://localhost:11434`
 - **Embeddings:** `sentence-transformers/all-MiniLM-L6-v2`
